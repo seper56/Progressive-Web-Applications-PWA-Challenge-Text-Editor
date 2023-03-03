@@ -18,7 +18,7 @@
 6. [Authors and acknowledgment](#authors%20and%20acknowledgment)
 ---
 ## About
-  The PWA requirements are met by this browser-based, one-page text editor. In the event that one of the options is not supported by the browser, it comes equipped with a number of data persistence methods that act as a backup. The application works both online and offline and is hosted on Heroku. The following is its user interface:
+  The PWA requirements are met by this browser-based, one-page text editor. In the event that one of the options is not supported by the browser, it comes equipped with a number of data persistence methods that act as a backup. The application works both online and offline and is hosted on Heroku. The following is its user interface
 ---
 ## User Story
   
